@@ -1,0 +1,25 @@
+.main{
+    width: 80%;
+    height: 110vh;
+    margin-left: 150px;
+    background-color: rgb(238, 238, 238);
+}
+.submit{
+    width: 83%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+.submit button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(181, 179, 179);
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+    border: none;
+    width: 100px;
+    cursor: pointer;
+}
